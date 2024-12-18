@@ -1,0 +1,381 @@
+<resources>
+    <string name="app_name">Phone Catalog App</string>
+
+        <string name="iphone">iPhone</string>
+        <!-- iPhone 15 -->
+        <string name="iphone_15_name">iPhone 15</string>
+        <string name="iphone_15_launch">September 22, 2023</string>
+        <string name="iphone_15_processor">A17 Pro chip</string>
+        <string name="iphone_15_ram">8GB</string>
+        <string name="iphone_15_storage">128GB/256GB/512GB/1TB</string>
+        <string name="iphone_15_camera">48MP Main + 12MP Ultra Wide + 12MP Telephoto</string>
+        <string name="iphone_15_battery">4422mAh</string>
+        <string name="iphone_15_display">6.7-inch Super Retina XDR OLED</string>
+        <string name="iphone_15_os">iOS 17</string>
+        <string name="iphone_15_features">Dynamic Island, Always-On Display, USB-C charging</string>
+
+        <!-- iPhone 14 Pro -->
+        <string name="iphone_14_pro_name">iPhone 14 Pro</string>
+        <string name="iphone_14_pro_launch">September 16, 2022</string>
+        <string name="iphone_14_pro_processor">A16 Bionic chip</string>
+        <string name="iphone_14_pro_ram">6GB</string>
+        <string name="iphone_14_pro_storage">128GB/256GB/512GB/1TB</string>
+        <string name="iphone_14_pro_camera">48MP Main + 12MP Ultra Wide + 12MP Telephoto</string>
+        <string name="iphone_14_pro_battery">3200mAh</string>
+        <string name="iphone_14_pro_display">6.1-inch Super Retina XDR OLED</string>
+        <string name="iphone_14_pro_os">iOS 16</string>
+        <string name="iphone_14_pro_features">Dynamic Island, Always-On Display</string>
+
+        <!-- iPhone 14 -->
+        <string name="iphone_14_name">iPhone 14</string>
+        <string name="iphone_14_launch">September 16, 2022</string>
+        <string name="iphone_14_processor">A15 Bionic chip</string>
+        <string name="iphone_14_ram">6GB</string>
+        <string name="iphone_14_storage">128GB/256GB/512GB</string>
+        <string name="iphone_14_camera">12MP Main + 12MP Ultra Wide</string>
+        <string name="iphone_14_battery">3279mAh</string>
+        <string name="iphone_14_display">6.1-inch Super Retina XDR OLED</string>
+        <string name="iphone_14_os">iOS 16</string>
+        <string name="iphone_14_features">Crash Detection, Emergency SOS via Satellite</string>
+
+        <!-- iPhone 13 Pro Max -->
+        <string name="iphone_13_pro_max_name">iPhone 13 Pro Max</string>
+        <string name="iphone_13_pro_max_launch">September 14, 2021</string>
+        <string name="iphone_13_pro_max_processor">A15 Bionic chip</string>
+        <string name="iphone_13_pro_max_ram">6GB</string>
+        <string name="iphone_13_pro_max_storage">128GB/256GB/512GB/1TB</string>
+        <string name="iphone_13_pro_max_camera">12MP Main + 12MP Ultra Wide + 12MP Telephoto</string>
+        <string name="iphone_13_pro_max_battery">4352mAh</string>
+        <string name="iphone_13_pro_max_display">6.7-inch Super Retina XDR OLED</string>
+        <string name="iphone_13_pro_max_os">iOS 15</string>
+        <string name="iphone_13_pro_max_features">ProMotion 120Hz, Ceramic Shield</string>
+
+        <!-- iPhone 13 -->
+        <string name="iphone_13_name">iPhone 13</string>
+        <string name="iphone_13_launch">September 14, 2021</string>
+        <string name="iphone_13_processor">A15 Bionic chip</string>
+        <string name="iphone_13_ram">4GB</string>
+        <string name="iphone_13_storage">128GB/256GB/512GB</string>
+        <string name="iphone_13_camera">12MP Main + 12MP Ultra Wide</string>
+        <string name="iphone_13_battery">3240mAh</string>
+        <string name="iphone_13_display">6.1-inch Super Retina XDR OLED</string>
+        <string name="iphone_13_os">iOS 15</string>
+        <string name="iphone_13_features">Cinematic Mode, Durable Design</string>
+
+        <!-- iPhone 12 Pro Max -->
+        <string name="iphone_12_pro_max_name">iPhone 12 Pro Max</string>
+        <string name="iphone_12_pro_max_launch">November 13, 2020</string>
+        <string name="iphone_12_pro_max_processor">A14 Bionic chip</string>
+        <string name="iphone_12_pro_max_ram">6GB</string>
+        <string name="iphone_12_pro_max_storage">128GB/256GB/512GB</string>
+        <string name="iphone_12_pro_max_camera">12MP Main + 12MP Ultra Wide + 12MP Telephoto</string>
+        <string name="iphone_12_pro_max_battery">3687mAh</string>
+        <string name="iphone_12_pro_max_display">6.7-inch Super Retina XDR OLED</string>
+        <string name="iphone_12_pro_max_os">iOS 14</string>
+        <string name="iphone_12_pro_max_features">LiDAR Scanner, Ceramic Shield</string>
+
+        <!-- iPhone SE (3rd Gen) -->
+        <string name="iphone_se_3_name">iPhone SE (3rd Gen)</string>
+        <string name="iphone_se_3_launch">March 8, 2022</string>
+        <string name="iphone_se_3_processor">A15 Bionic chip</string>
+        <string name="iphone_se_3_ram">4GB</string>
+        <string name="iphone_se_3_storage">64GB/128GB/256GB</string>
+        <string name="iphone_se_3_camera">12MP Main</string>
+        <string name="iphone_se_3_battery">2018mAh</string>
+        <string name="iphone_se_3_display">4.7-inch Retina HD</string>
+        <string name="iphone_se_3_os">iOS 15</string>
+        <string name="iphone_se_3_features">Touch ID, Compact Design</string>
+
+        <string name="samsung">Samsung</string>
+        <!-- Samsung Galaxy S23 -->
+        <string name="samsung_s23_name">Samsung Galaxy S23</string>
+        <string name="samsung_s23_launch">February 17, 2023</string>
+        <string name="samsung_s23_processor">Qualcomm Snapdragon 8 Gen 2</string>
+        <string name="samsung_s23_ram">8GB/12GB</string>
+        <string name="samsung_s23_storage">128GB/256GB/512GB</string>
+        <string name="samsung_s23_camera">50MP Main + 12MP Ultra Wide + 10MP Telephoto</string>
+        <string name="samsung_s23_battery">3900mAh</string>
+        <string name="samsung_s23_display">6.1-inch Dynamic AMOLED 2X, 120Hz</string>
+        <string name="samsung_s23_os">Android 13, One UI 5.1</string>
+        <string name="samsung_s23_features">120Hz Display, 8K Video Recording, 5G Support</string>
+
+        <!-- Samsung Galaxy Z Fold 5 -->
+        <string name="samsung_zfold5_name">Samsung Galaxy Z Fold 5</string>
+        <string name="samsung_zfold5_launch">August 11, 2023</string>
+        <string name="samsung_zfold5_processor">Qualcomm Snapdragon 8 Gen 2</string>
+        <string name="samsung_zfold5_ram">12GB</string>
+        <string name="samsung_zfold5_storage">256GB/512GB/1TB</string>
+        <string name="samsung_zfold5_camera">50MP Main + 12MP Ultra Wide + 10MP Telephoto</string>
+        <string name="samsung_zfold5_battery">4400mAh</string>
+        <string name="samsung_zfold5_display">7.6-inch Foldable Dynamic AMOLED 2X, 120Hz</string>
+        <string name="samsung_zfold5_os">Android 13, One UI 5.1.1</string>
+        <string name="samsung_zfold5_features">Foldable Design, S Pen Support</string>
+
+        <!-- Samsung Galaxy Z Flip 5 -->
+        <string name="samsung_zflip5_name">Samsung Galaxy Z Flip 5</string>
+        <string name="samsung_zflip5_launch">August 11, 2023</string>
+        <string name="samsung_zflip5_processor">Qualcomm Snapdragon 8 Gen 2</string>
+        <string name="samsung_zflip5_ram">8GB</string>
+        <string name="samsung_zflip5_storage">256GB/512GB</string>
+        <string name="samsung_zflip5_camera">12MP Main + 12MP Ultra Wide</string>
+        <string name="samsung_zflip5_battery">3700mAh</string>
+        <string name="samsung_zflip5_display">6.7-inch Foldable Dynamic AMOLED 2X, 120Hz</string>
+        <string name="samsung_zflip5_os">Android 13, One UI 5.1.1</string>
+        <string name="samsung_zflip5_features">Compact Foldable Design, Flex Window</string>
+
+        <!-- Samsung Galaxy A54 -->
+        <string name="samsung_a54_name">Samsung Galaxy A54</string>
+        <string name="samsung_a54_launch">March 24, 2023</string>
+        <string name="samsung_a54_processor">Exynos 1380</string>
+        <string name="samsung_a54_ram">6GB/8GB</string>
+        <string name="samsung_a54_storage">128GB/256GB</string>
+        <string name="samsung_a54_camera">50MP Main + 12MP Ultra Wide + 5MP Macro</string>
+        <string name="samsung_a54_battery">5000mAh</string>
+        <string name="samsung_a54_display">6.4-inch Super AMOLED, 120Hz</string>
+        <string name="samsung_a54_os">Android 13, One UI 5.1</string>
+        <string name="samsung_a54_features">Affordable Performance, IP67 Rating</string>
+
+        <!-- Samsung Galaxy A35 5G -->
+        <string name="samsung_a35_name">Samsung Galaxy A35 5G</string>
+        <string name="samsung_a35_launch">March 11, 2024</string>
+        <string name="samsung_a35_processor">MediaTek Dimensity 1080</string>
+        <string name="samsung_a35_ram">6GB/8GB</string>
+        <string name="samsung_a35_storage">128GB/256GB</string>
+        <string name="samsung_a35_camera">48MP Main + 8MP Ultra Wide + 5MP Macro</string>
+        <string name="samsung_a35_battery">5000mAh</string>
+        <string name="samsung_a35_display">6.6-inch Super AMOLED, 120Hz</string>
+        <string name="samsung_a35_os">Android 13, One UI 5.1</string>
+        <string name="samsung_a35_features">Value-Oriented, Expandable Storage, 5G Support</string>
+
+        <!-- Samsung Galaxy M14 -->
+        <string name="samsung_m14_name">Samsung Galaxy M14</string>
+        <string name="samsung_m14_launch">December 14, 2023</string>
+        <string name="samsung_m14_processor">Exynos 1330</string>
+        <string name="samsung_m14_ram">4GB/6GB</string>
+        <string name="samsung_m14_storage">64GB/128GB</string>
+        <string name="samsung_m14_camera">50MP Main + 2MP Macro + 2MP Depth</string>
+        <string name="samsung_m14_battery">6000mAh</string>
+        <string name="samsung_m14_display">6.6-inch PLS LCD, 90Hz</string>
+        <string name="samsung_m14_os">Android 13, One UI Core 5</string>
+        <string name="samsung_m14_features">Massive Battery, Budget-Friendly</string>
+
+        <!-- Samsung Galaxy S24 Ultra -->
+        <string name="samsung_s24ultra_name">Samsung Galaxy S24 Ultra</string>
+        <string name="samsung_s24ultra_launch">January 31, 2024</string>
+        <string name="samsung_s24ultra_processor">Qualcomm Snapdragon 8 Gen 3</string>
+        <string name="samsung_s24ultra_ram">12GB/16GB</string>
+        <string name="samsung_s24ultra_storage">256GB/512GB/1TB</string>
+        <string name="samsung_s24ultra_camera">200MP Main + 50MP Ultra Wide + 12MP Telephoto</string>
+        <string name="samsung_s24ultra_battery">5000mAh</string>
+        <string name="samsung_s24ultra_display">6.9-inch Dynamic AMOLED 2X, 120Hz</string>
+        <string name="samsung_s24ultra_os">Android 14, One UI 6.0</string>
+        <string name="samsung_s24ultra_features">Large Display, S Pen Included, 5G Ready</string>
+
+        <string name="oppo">Oppo</string>
+        <!-- Oppo Find X6 Pro -->
+        <string name="phone_name_x6_pro">Oppo Find X6 Pro</string>
+        <string name="phone_launch_x6_pro">March 21, 2023</string>
+        <string name="phone_processor_x6_pro">Qualcomm Snapdragon 8 Gen 2</string>
+        <string name="phone_ram_x6_pro">12GB/16GB</string>
+        <string name="phone_storage_x6_pro">256GB/512GB</string>
+        <string name="phone_camera_x6_pro">50MP Main + 50MP Ultra Wide + 50MP Telephoto</string>
+        <string name="phone_battery_x6_pro">5000mAh</string>
+        <string name="phone_display_x6_pro">6.82-inch AMOLED, 120Hz</string>
+        <string name="phone_os_x6_pro">Android 13, ColorOS 13.1</string>
+        <string name="phone_features_x6_pro">Hasselblad Camera, IP68 Water Resistance</string>
+
+        <!-- Oppo Reno 10 Pro+ -->
+        <string name="phone_name_reno_10_pro_plus">Oppo Reno 10 Pro+</string>
+        <string name="phone_launch_reno_10_pro_plus">May 24, 2023</string>
+        <string name="phone_processor_reno_10_pro_plus">Qualcomm Snapdragon 8+ Gen 1</string>
+        <string name="phone_ram_reno_10_pro_plus">12GB</string>
+        <string name="phone_storage_reno_10_pro_plus">256GB/512GB</string>
+        <string name="phone_camera_reno_10_pro_plus">50MP Main + 8MP Ultra Wide + 64MP Telephoto</string>
+        <string name="phone_battery_reno_10_pro_plus">4700mAh</string>
+        <string name="phone_display_reno_10_pro_plus">6.74-inch AMOLED, 120Hz</string>
+        <string name="phone_os_reno_10_pro_plus">Android 13, ColorOS 13</string>
+        <string name="phone_features_reno_10_pro_plus">Periscope Zoom, Ultra-Fast Charging</string>
+
+        <!-- Oppo A98 5G -->
+        <string name="phone_name_a98_5g">Oppo A98 5G</string>
+        <string name="phone_launch_a98_5g">September 14, 2023</string>
+        <string name="phone_processor_a98_5g">Qualcomm Snapdragon 695</string>
+        <string name="phone_ram_a98_5g">8GB</string>
+        <string name="phone_storage_a98_5g">128GB/256GB</string>
+        <string name="phone_camera_a98_5g">64MP Main + 2MP Macro + 2MP Depth</string>
+        <string name="phone_battery_a98_5g">5000mAh</string>
+        <string name="phone_display_a98_5g">6.72-inch IPS LCD, 120Hz</string>
+        <string name="phone_os_a98_5g">Android 13, ColorOS 13</string>
+        <string name="phone_features_a98_5g">Affordable 5G, Large Display</string>
+
+        <!-- Oppo A78 5G -->
+        <string name="phone_name_a78_5g">Oppo A78 5G</string>
+        <string name="phone_launch_a78_5g">January 07, 2023</string>
+        <string name="phone_processor_a78_5g">MediaTek Dimensity 700</string>
+        <string name="phone_ram_a78_5g">8GB</string>
+        <string name="phone_storage_a78_5g">128GB</string>
+        <string name="phone_camera_a78_5g">50MP Main + 2MP Depth</string>
+        <string name="phone_battery_a78_5g">5000mAh</string>
+        <string name="phone_display_a78_5g">6.56-inch IPS LCD, 90Hz</string>
+        <string name="phone_os_a78_5g">Android 13, ColorOS 13</string>
+        <string name="phone_features_a78_5g">Slim Design, Decent Performance</string>
+
+        <!-- Oppo F21 Pro 5G -->
+        <string name="phone_name_f21_pro_5g">Oppo F21 Pro 5G</string>
+        <string name="phone_launch_f21_pro_5g">April 12, 2022</string>
+        <string name="phone_processor_f21_pro_5g">Qualcomm Snapdragon 695</string>
+        <string name="phone_ram_f21_pro_5g">8GB</string>
+        <string name="phone_storage_f21_pro_5g">128GB</string>
+        <string name="phone_camera_f21_pro_5g">64MP Main + 2MP Macro + 2MP Depth</string>
+        <string name="phone_battery_f21_pro_5g">4500mAh</string>
+        <string name="phone_display_f21_pro_5g">6.43-inch AMOLED, 60Hz</string>
+        <string name="phone_os_f21_pro_5g">Android 12, ColorOS 12</string>
+        <string name="phone_features_f21_pro_5g">Slim Design, AMOLED Display</string>
+
+        <!-- Oppo A58 -->
+        <string name="phone_name_a58">Oppo A58</string>
+        <string name="phone_launch_a58">November 10, 2022</string>
+        <string name="phone_processor_a58">MediaTek Dimensity 6020</string>
+        <string name="phone_ram_a58">6GB/8GB</string>
+        <string name="phone_storage_a58">128GB/256GB</string>
+        <string name="phone_camera_a58">50MP Main + 2MP Depth</string>
+        <string name="phone_battery_a58">5000mAh</string>
+        <string name="phone_display_a58">6.6-inch IPS LCD, 120Hz</string>
+        <string name="phone_os_a58">Android 13, ColorOS 13</string>
+        <string name="phone_features_a58">Balanced Performance, Long Battery Life</string>
+
+        <string name="xiaomi">Xiaomi</string>
+        <!-- Xiaomi 13 Pro -->
+        <string name="phone_name_x13_pro">Xiaomi 13 Pro</string>
+        <string name="phone_launch_x13_pro">December 11, 2022</string>
+        <string name="phone_processor_x13_pro">Qualcomm Snapdragon 8 Gen 2</string>
+        <string name="phone_ram_x13_pro">12GB</string>
+        <string name="phone_storage_x13_pro">256GB/512GB</string>
+        <string name="phone_camera_x13_pro">50.3MP Main + 50MP Ultra Wide + 50MP Telephoto</string>
+        <string name="phone_battery_x13_pro">4820mAh</string>
+        <string name="phone_display_x13_pro">6.73-inch AMOLED, 120Hz</string>
+        <string name="phone_os_x13_pro">Android 13, MIUI 14</string>
+        <string name="phone_features_x13_pro">Leica Camera, 120W Fast Charging</string>
+
+        <!-- Xiaomi 12T Pro -->
+        <string name="phone_name_x12t_pro">Xiaomi 12T Pro</string>
+        <string name="phone_launch_x12t_pro">October 04, 2022</string>
+        <string name="phone_processor_x12t_pro">Qualcomm Snapdragon 8+ Gen 1</string>
+        <string name="phone_ram_x12t_pro">8GB/12GB</string>
+        <string name="phone_storage_x12t_pro">128GB/256GB</string>
+        <string name="phone_camera_x12t_pro">200MP Main + 8MP Ultra Wide + 2MP Macro</string>
+        <string name="phone_battery_x12t_pro">5000mAh</string>
+        <string name="phone_display_x12t_pro">6.67-inch AMOLED, 120Hz</string>
+        <string name="phone_os_x12t_pro">Android 12, MIUI 13</string>
+        <string name="phone_features_x12t_pro">Ultra High-Resolution Camera, 120W Charging</string>
+
+        <!-- Xiaomi Redmi Note 13 Pro+ -->
+        <string name="phone_name_note13_pro_plus">Xiaomi Redmi Note 13 Pro+</string>
+        <string name="phone_launch_note13_pro_plus">December 14, 2022</string>
+        <string name="phone_processor_note13_pro_plus">MediaTek Dimensity 7200 Ultra</string>
+        <string name="phone_ram_note13_pro_plus">12GB</string>
+        <string name="phone_storage_note13_pro_plus">256GB/512GB</string>
+        <string name="phone_camera_note13_pro_plus">200MP Main + 8MP Ultra Wide + 2MP Macro</string>
+        <string name="phone_battery_note13_pro_plus">5000mAh</string>
+        <string name="phone_display_note13_pro_plus">6.67-inch AMOLED, 120Hz</string>
+        <string name="phone_os_note13_pro_plus">Android 13, MIUI 14</string>
+        <string name="phone_features_note13_pro_plus">High-End Features at Affordable Price</string>
+
+        <!-- Xiaomi Poco F5 Pro -->
+        <string name="phone_name_poco_f5_pro">Xiaomi Poco F5 Pro</string>
+        <string name="phone_launch_poco_f5_pro">May 2023</string>
+        <string name="phone_processor_poco_f5_pro">Qualcomm Snapdragon 8+ Gen 1</string>
+        <string name="phone_ram_poco_f5_pro">8GB/12GB</string>
+        <string name="phone_storage_poco_f5_pro">256GB/512GB</string>
+        <string name="phone_camera_poco_f5_pro">64MP Main + 8MP Ultra Wide + 2MP Macro</string>
+        <string name="phone_battery_poco_f5_pro">5160mAh</string>
+        <string name="phone_display_poco_f5_pro">6.67-inch AMOLED, 120Hz</string>
+        <string name="phone_os_poco_f5_pro">Android 13, MIUI 14 for Poco</string>
+        <string name="phone_features_poco_f5_pro">Great Performance, 2K Display</string>
+
+        <!-- Xiaomi Poco X5 Pro -->
+        <string name="phone_name_poco_x5_pro">Xiaomi Poco X5 Pro</string>
+        <string name="phone_launch_poco_x5_pro">February 06, 2023</string>
+        <string name="phone_processor_poco_x5_pro">Qualcomm Snapdragon 778G</string>
+        <string name="phone_ram_poco_x5_pro">6GB/8GB</string>
+        <string name="phone_storage_poco_x5_pro">128GB/256GB</string>
+        <string name="phone_camera_poco_x5_pro">108MP Main + 8MP Ultra Wide + 2MP Macro</string>
+        <string name="phone_battery_poco_x5_pro">5000mAh</string>
+        <string name="phone_display_poco_x5_pro">6.67-inch AMOLED, 120Hz</string>
+        <string name="phone_os_poco_x5_pro">Android 12, MIUI 14 for Poco</string>
+        <string name="phone_features_poco_x5_pro">Value for Money, Slim Design</string>
+
+    <string name="huawei">Huawei</string>
+        <!-- Huawei Mate 50 Pro -->
+        <string name="phone_name_mate_50_pro">Huawei Mate 50 Pro</string>
+        <string name="phone_launch_mate_50_pro">September 28, 2022</string>
+        <string name="phone_processor_mate_50_pro">Qualcomm Snapdragon 8+ Gen 1 (4G)</string>
+        <string name="phone_ram_mate_50_pro">8GB</string>
+        <string name="phone_storage_mate_50_pro">256GB/512GB</string>
+        <string name="phone_camera_mate_50_pro">50MP Main + 13MP Ultra Wide + 64MP Telephoto</string>
+        <string name="phone_battery_mate_50_pro">4700mAh</string>
+        <string name="phone_display_mate_50_pro">6.74-inch OLED, 120Hz</string>
+        <string name="phone_os_mate_50_pro">HarmonyOS 3.0</string>
+        <string name="phone_features_mate_50_pro">Kunlun Glass, XMAGE Imaging</string>
+
+        <!-- Huawei Mate 60 Pro -->
+        <string name="phone_name_mate_60_pro">Huawei Mate 60 Pro</string>
+        <string name="phone_launch_mate_60_pro">August 29, 2023</string>
+        <string name="phone_processor_mate_60_pro">HiSilicon Kirin 9000S</string>
+        <string name="phone_ram_mate_60_pro">12GB</string>
+        <string name="phone_storage_mate_60_pro">256GB/512GB/1TB</string>
+        <string name="phone_camera_mate_60_pro">50MP Main + 12MP Ultra Wide + 48MP Telephoto</string>
+        <string name="phone_battery_mate_60_pro">5000mAh</string>
+        <string name="phone_display_mate_60_pro">6.82-inch LTPO OLED, 120Hz</string>
+        <string name="phone_os_mate_60_pro">HarmonyOS 4.0</string>
+        <string name="phone_features_mate_60_pro">Satellite Calling, Advanced AI Features</string>
+
+        <!-- Huawei P50 Pro -->
+        <string name="phone_name_p50_pro">Huawei P50 Pro</string>
+        <string name="phone_launch_p50_pro">July 29, 2021</string>
+        <string name="phone_processor_p50_pro">Qualcomm Snapdragon 888 4G</string>
+        <string name="phone_ram_p50_pro">8GB</string>
+        <string name="phone_storage_p50_pro">128GB/256GB/512GB</string>
+        <string name="phone_camera_p50_pro">50MP Main + 64MP Telephoto + 13MP Ultra Wide + 40MP Monochrome</string>
+        <string name="phone_battery_p50_pro">4360mAh</string>
+        <string name="phone_display_p50_pro">6.6-inch OLED, 120Hz</string>
+        <string name="phone_os_p50_pro">HarmonyOS 2.0</string>
+        <string name="phone_features_p50_pro">Ultra Vision Camera, Stylish Design</string>
+
+        <!-- Huawei nova 11 Pro -->
+        <string name="phone_name_nova_11_pro">Huawei nova 11 Pro</string>
+        <string name="phone_launch_nova_11_pro">April 17, 2023</string>
+        <string name="phone_processor_nova_11_pro">Qualcomm Snapdragon 778G 4G</string>
+        <string name="phone_ram_nova_11_pro">8GB</string>
+        <string name="phone_storage_nova_11_pro">256GB/512GB</string>
+        <string name="phone_camera_nova_11_pro">50MP Main + 8MP Ultra Wide</string>
+        <string name="phone_battery_nova_11_pro">4500mAh</string>
+        <string name="phone_display_nova_11_pro">6.78-inch OLED, 120Hz</string>
+        <string name="phone_os_nova_11_pro">HarmonyOS 3.0</string>
+        <string name="phone_features_nova_11_pro">Fast Charging, Ultra Slim Design</string>
+
+        <!-- Huawei nova 10 Pro -->
+        <string name="phone_name_nova_10_pro">Huawei nova 10 Pro</string>
+        <string name="phone_launch_nova_10_pro">July 10, 2022</string>
+        <string name="phone_processor_nova_10_pro">Qualcomm Snapdragon 778G 4G</string>
+        <string name="phone_ram_nova_10_pro">8GB</string>
+        <string name="phone_storage_nova_10_pro">128GB/256GB</string>
+        <string name="phone_camera_nova_10_pro">50MP Main + 8MP Ultra Wide + 2MP Depth</string>
+        <string name="phone_battery_nova_10_pro">4500mAh</string>
+        <string name="phone_display_nova_10_pro">6.78-inch OLED, 120Hz</string>
+        <string name="phone_os_nova_10_pro">HarmonyOS 2.0</string>
+        <string name="phone_features_nova_10_pro">Fast Charging, Advanced Camera</string>
+
+        <!-- Huawei Y9a -->
+        <string name="phone_name_y9a">Huawei Y9a</string>
+        <string name="phone_launch_y9a">September 07, 2020</string>
+        <string name="phone_processor_y9a">MediaTek Helio G80</string>
+        <string name="phone_ram_y9a">6GB/8GB</string>
+        <string name="phone_storage_y9a">128GB</string>
+        <string name="phone_camera_y9a">64MP Main + 8MP Ultra Wide + 2MP Macro + 2MP Depth</string>
+        <string name="phone_battery_y9a">4200mAh</string>
+        <string name="phone_display_y9a">6.63-inch IPS LCD, 60Hz</string>
+        <string name="phone_os_y9a">EMUI 10.1</string>
+        <string name="phone_features_y9a">Pop-Up Camera, Affordable Performance</string>
+
+</resources>
